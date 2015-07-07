@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  7 JUL 2015 11:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  7 JUL 2015 16:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -255,13 +255,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 3.
  [1
 
-])
+] [2])
 \tf@toc=\write3
 \openout3 = `Unofficial_Intern_Guide.toc'.
 
- [2]
+ [3]
 Chapter 1.
-[3
+[4
 
 ]
 Chapter 2.
@@ -276,104 +276,203 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 44.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmtt.fd
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [4
-
-] [5]
-<lombok.png, id=29, 345.29pt x 533.995pt>
-File: lombok.png Graphic file (type png)
- <use lombok.png>
-Package pdftex.def Info: lombok.png used on input line 66.
-(pdftex.def)             Requested size: 172.64456pt x 266.99684pt.
- [6 <./lombok.png>]
-Chapter 3.
-[7
+) [5
 
 ]
-Overfull \hbox (92.71187pt too wide) in paragraph at lines 83--83
+Overfull \hbox (8.44365pt too wide) in paragraph at lines 58--59
+[]\OT1/lmr/m/n/10 Decouple con-tent which will en-able Hy-per-Me-dia API de-sig
+ns, bet-ter caching,
+ []
+
+[6] [7]
+Chapter 3.
+[8
+
+]
+Overfull \hbox (124.89937pt too wide) has occurred while \output is active
+\OT1/lmr/m/sl/10 CHAPTER 3.  STAND-UP? BACKLOG GROOMING? DEMO'S? WHAT ARE ALL T
+HESE MEETINGS! \OT1/lmr/m/n/10 9
+ []
+
+[9]
+Overfull \hbox (129.89937pt too wide) has occurred while \output is active
+\OT1/lmr/m/sl/10 CHAPTER 3.  STAND-UP? BACKLOG GROOMING? DEMO'S? WHAT ARE ALL T
+HESE MEETINGS! \OT1/lmr/m/n/10 10
+ []
+
+[10]
+Chapter 4.
+[11
+
+] [12] [13] <lombok.png, id=56, 345.29pt x 533.995pt>
+File: lombok.png Graphic file (type png)
+ <use lombok.png>
+Package pdftex.def Info: lombok.png used on input line 155.
+(pdftex.def)             Requested size: 172.64456pt x 266.99684pt.
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 161.
+
+[14 <./lombok.png>] [15]
+Chapter 5.
+[16
+
+]
+Overfull \hbox (92.71187pt too wide) in paragraph at lines 193--193
 []\OT1/lmr/m/n/10 2. Use the ter-mi-nal for the fol-low-ing com-mand: git clone
  https://github.com/Wikia/pandora.git 
  []
 
-[8]
-Chapter 4.
-<VPN.png, id=42, 642.4pt x 178.6675pt>
-File: VPN.png Graphic file (type png)
- <use VPN.png>
-Package pdftex.def Info: VPN.png used on input line 100.
-(pdftex.def)             Requested size: 192.72148pt x 53.60065pt.
- [9
+[17] <pullrequest.png, id=74, 979.66pt x 366.36874pt>
+File: pullrequest.png Graphic file (type png)
+ <use pullrequest.png>
+Package pdftex.def Info: pullrequest.png used on input line 206.
+(pdftex.def)             Requested size: 391.85706pt x 146.54489pt.
 
- <./VPN.png>] [10]
-Chapter 5.
-[11
-
-] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+Underfull \hbox (badness 10000) in paragraph at lines 204--207
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
-
- []
-
-<intellijdebugger.png, id=56, 748.7975pt x 504.88625pt>
-File: intellijdebugger.png Graphic file (type png)
-
-<use intellijdebugger.png>
-Package pdftex.def Info: intellijdebugger.png used on input line 135.
-(pdftex.def)             Requested size: 374.39783pt x 252.44249pt.
-
-Overfull \hbox (29.39783pt too wide) in paragraph at lines 135--136
+Overfull \hbox (46.85706pt too wide) in paragraph at lines 204--207
 [] 
  []
 
-[13 <./intellijdebugger.png>]
+[18 <./pullrequest.png>]
 Chapter 6.
-[14
+<VPN.png, id=80, 642.4pt x 178.6675pt>
+File: VPN.png Graphic file (type png)
+ <use VPN.png>
+Package pdftex.def Info: VPN.png used on input line 214.
+(pdftex.def)             Requested size: 192.72148pt x 53.60065pt.
 
-] <cobertura.png, id=64, 289.08pt x 412.54124pt>
-File: cobertura.png Graphic file (type png)
- <use cobertura.png>
-Package pdftex.def Info: cobertura.png used on input line 148.
-(pdftex.def)             Requested size: 115.62994pt x 165.01357pt.
-
-<coberturareport.png, id=65, 501.875pt x 203.76125pt>
-File: coberturareport.png Graphic file (type png)
-
-<use coberturareport.png>
-Package pdftex.def Info: coberturareport.png used on input line 153.
-(pdftex.def)             Requested size: 301.12732pt x 122.25768pt.
- [15 <./cobertura.png> <./coberturareport.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
 
  []
 
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 162.
+<githubtestsfailed.png, id=81, 698.61pt x 219.82124pt>
+File: githubtestsfailed.png Graphic file (type png)
 
-Overfull \hbox (39.90425pt too wide) in paragraph at lines 170--171
+<use githubtestsfailed.png>
+Package pdftex.def Info: githubtestsfailed.png used on input line 221.
+(pdftex.def)             Requested size: 279.43904pt x 87.92693pt.
+ [19
+
+ <./VPN.png>]
+<jenkinshome.png, id=85, 833.1125pt x 497.86pt>
+File: jenkinshome.png Graphic file (type png)
+ <use jenkinshome.png>
+Package pdftex.def Info: jenkinshome.png used on input line 223.
+(pdftex.def)             Requested size: 333.23909pt x 199.14047pt.
+
+Overfull \hbox (13.23912pt too wide) in paragraph at lines 222--224
+[] 
+ []
+
+<jenkinsbuildfailed.png, id=86, 893.3375pt x 370.38374pt>
+File: jenkinsbuildfailed.png Graphic file (type png)
+
+<use jenkinsbuildfailed.png>
+Package pdftex.def Info: jenkinsbuildfailed.png used on input line 224.
+(pdftex.def)             Requested size: 357.32866pt x 148.15086pt.
+
+Overfull \hbox (37.32869pt too wide) in paragraph at lines 224--225
+[] 
+ []
+
+[20 <./githubtestsfailed.png> <./jenkinshome.png> <./jenkinsbuildfailed.png>]
+[21]
+Chapter 7.
+[22
+
+] [23]
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+
+ []
+
+<intellijdebugger.png, id=102, 748.7975pt x 504.88625pt>
+File: intellijdebugger.png Graphic file (type png)
+
+<use intellijdebugger.png>
+Package pdftex.def Info: intellijdebugger.png used on input line 258.
+(pdftex.def)             Requested size: 374.39783pt x 252.44249pt.
+
+Overfull \hbox (29.39783pt too wide) in paragraph at lines 258--259
+[] 
+ []
+
+[24 <./intellijdebugger.png>]
+Chapter 8.
+[25
+
+] <cobertura.png, id=111, 289.08pt x 412.54124pt>
+File: cobertura.png Graphic file (type png)
+ <use cobertura.png>
+Package pdftex.def Info: cobertura.png used on input line 271.
+(pdftex.def)             Requested size: 115.62994pt x 165.01357pt.
+
+<coberturareport.png, id=112, 501.875pt x 203.76125pt>
+File: coberturareport.png Graphic file (type png)
+
+<use coberturareport.png>
+Package pdftex.def Info: coberturareport.png used on input line 276.
+(pdftex.def)             Requested size: 301.12732pt x 122.25768pt.
+ [26 <./cobertura.png> <./coberturareport.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+
+ []
+
+
+Overfull \hbox (39.90425pt too wide) in paragraph at lines 293--294
 \OT1/lmr/m/n/10 cov-er-age. That sounds great, un-til you re-al-ize that there 
 will be a \OT1/lmtt/m/n/10 NullPointerException
  []
 
-[16]
-Chapter 7.
-[17
+<mockito.png, id=117, 576.1525pt x 383.4325pt>
+File: mockito.png Graphic file (type png)
+ <use mockito.png>
+Package pdftex.def Info: mockito.png used on input line 302.
+(pdftex.def)             Requested size: 316.88484pt x 210.88852pt.
 
-] [18]
-Chapter 8.
-[19
+Underfull \hbox (badness 10000) in paragraph at lines 300--303
+
+ []
+
+[27] [28 <./mockito.png>]
+Chapter 9.
+[29
+
+]
+Overfull \hbox (37.19017pt too wide) has occurred while \output is active
+\OT1/lmr/m/sl/10 CHAPTER 9.  SCRUM CONTINUED; HOW DO I CONTRIBUTE TO MEETINGS? 
+\OT1/lmr/m/n/10 30
+ []
+
+[30]
+Chapter 10.
+[31
+
+]
+Chapter 11.
+[32
+
+]
+Chapter 12.
+[33
 
 ] (./Unofficial_Intern_Guide.aux) ) 
 Here is how much of TeX's memory you used:
- 3121 strings out of 493089
- 46576 string characters out of 6134842
- 140284 words of memory out of 5000000
- 6544 multiletter control sequences out of 15000+600000
- 58252 words of font info for 45 fonts, out of 8000000 for 9000
+ 3170 strings out of 493089
+ 47470 string characters out of 6134842
+ 141284 words of memory out of 5000000
+ 6587 multiletter control sequences out of 15000+600000
+ 62470 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,8n,58p,620b,1077s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,8n,58p,1036b,1517s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/en
 c/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm
 /lm-rm.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}<
@@ -383,14 +482,15 @@ c/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm
 ist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
 ype1/public/lm/lmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
 /lm/lmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr8.pf
-b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/lo
-cal/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2015/texm
-f-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Unofficial_Intern_Guide.pdf (20 pages, 470173 bytes).
+b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2015/texmf-dist/fon
+ts/type1/public/lm/lmtt10.pfb>
+Output written on Unofficial_Intern_Guide.pdf (34 pages, 819058 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
+ 184 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
